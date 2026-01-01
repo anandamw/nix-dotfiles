@@ -18,7 +18,9 @@
     neovim
     nil # Nix language server
     pavucontrol
-  ];
+    discord
+    gnome-tweaks
+ ];
 
   programs.git = {
     enable = true;
