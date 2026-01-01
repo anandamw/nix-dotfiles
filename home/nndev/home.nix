@@ -17,6 +17,7 @@
     vscode
     neovim
     nil # Nix language server
+    pavucontrol
   ];
 
   programs.git = {
